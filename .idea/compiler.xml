@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="selenium-wechat" />
+        <module name="webchat-web_test" />
         <module name="wechat-web" />
       </profile>
     </annotationProcessing>
