@@ -10,7 +10,7 @@ aggregate 自定义的聚合类
 
 ### 编写步骤
 
-- 定义的页面类必须要基础BasePage类,因为查找元素是基于PageFactory的@FindBy来写的，示例如下：
+- 定义的页面类必须要基础BasePage类,查找元素是基于PageFactory的@FindBy来写的，示例如下：
 ```java
 public class HomePage extends BasePage {
 
